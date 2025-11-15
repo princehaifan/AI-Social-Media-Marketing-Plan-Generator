@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Marketing Plan Generator",
+  "description": "An AI-powered application to help businesses create a step-by-step social media marketing plan. Set goals, choose platforms, and generate engaging content ideas and full posts using Gemini.",
+  "requestFramePermissions": []
+}
